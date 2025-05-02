@@ -1,0 +1,24 @@
+# Ignore .DS_Store (macOS system files)
+.DS_Store
+
+# Ignore node_modules (for JavaScript/Node.js projects)
+node_modules/
+
+# Ignore build directories (if any)
+dist/
+build/
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore dependency directories for other frameworks
+bower_components/
+
+# Ignore system-specific files (Windows)
+Thumbs.db
