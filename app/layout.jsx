@@ -48,19 +48,18 @@ export default async function RootLayout({ children }) {
       <Head
       // ... Your additional head options
       >
-        {/* Your additional tags should be passed as `children` of `<Head>` element */}
-        <script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=G-KREYYF1FXB"
-        ></script>
-        <script>
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-KREYYF1FXB');
-          `}
-        </script>
+       
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-KREYYF1FXB"></script> 
+          <script          
+            dangerouslySetInnerHTML={{
+              __html: `window.dataLayer = window.dataLayer || [];   
+                  function gtag(){dataLayer.push(arguments);}   
+                  gtag('js', new Date());   
+                  gtag('config', 'G-KREYYF1FXB');
+               `,
+            }}   
+          />
+        
       </Head>
       <body>
         <ClarityInit /> {/* Clarity initialization runs on client */}
