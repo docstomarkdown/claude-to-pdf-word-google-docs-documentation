@@ -9,11 +9,50 @@ __turbopack_context__.s({
     "default": (()=>__TURBOPACK__default__export__)
 });
 const __TURBOPACK__default__export__ = {
-    index: 'Introduction',
-    'installation-guide': "Installation Guide",
-    'exporting-content': 'Exporting Content',
-    'license-management': "License Management",
-    'troubleshooting': "Troubleshooting"
+    index: "Introduction",
+    "installation-guide": "Installation Guide",
+    '###': {
+        type: 'separator',
+        title: '' // Title is optional
+    },
+    "exporting-content": "Exporting Content",
+    '###': {
+        type: 'separator',
+        title: '' // Title is optional
+    },
+    '####': {
+        type: 'separator',
+        title: '' // Title is optional
+    },
+    "license-management": "License Management",
+    '#####': {
+        type: 'separator',
+        title: '' // Title is optional
+    },
+    "troubleshooting": "Troubleshooting",
+    "references-and-policies": "References and Policies",
+    '######': {
+        type: 'separator',
+        title: '' // Title is optional
+    },
+    "Contact Support": {
+        title: "Contact Support",
+        href: "https://www.thinksolv.com/contact"
+    },
+    company: {
+        title: 'Useful Links',
+        type: 'menu',
+        items: {
+            contact: {
+                title: 'Contact Us',
+                href: 'https://www.thinksolv.com/contact'
+            },
+            Extension: {
+                title: 'Chrome Webstore Listing',
+                href: 'https://chromewebstore.google.com/detail/chatgpt-to-word-or-pdf/mjdmggegbkookpcmbdllcnbfboikcbop'
+            }
+        }
+    }
 };
 }}),
 "[project]/content/exporting-content/_meta.js [app-rsc] (ecmascript)": ((__turbopack_context__) => {
@@ -92,7 +131,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chatgpt$2d$canvas$
 const metadata = {
     "title": "Exporting Canvas Content",
     "filePath": "content/exporting-content/exporting-canvas-content.mdx",
-    "timestamp": 1746195172861
+    "timestamp": 1746255305240
 };
 function useTOC(props) {
     return [
@@ -529,7 +568,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chatgpt$2d$only$2d
 const metadata = {
     "title": "Exporting Entire Conversation",
     "filePath": "content/exporting-content/exporting-entire-conversation.mdx",
-    "timestamp": 1746195172377
+    "timestamp": 1746255304433
 };
 function useTOC(props) {
     return [
@@ -992,7 +1031,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chatgpt$2d$single$
 const metadata = {
     "title": "Exporting Single Response",
     "filePath": "content/exporting-content/exporting-single-response.mdx",
-    "timestamp": 1746195171978
+    "timestamp": 1746255304838
 };
 function useTOC(props) {
     return [
@@ -1284,7 +1323,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Changelog",
     "filePath": "content/references-and-policies/change-log.mdx",
-    "timestamp": 1746195171973
+    "timestamp": 1746255305257
 };
 function useTOC(props) {
     return [
@@ -1694,7 +1733,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Privacy and Security",
     "filePath": "content/references-and-policies/privacy-and-security.mdx",
-    "timestamp": 1746195171145
+    "timestamp": 1746255304823
 };
 function useTOC(props) {
     return [
@@ -2175,7 +2214,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Introduction",
     "filePath": "content/index.mdx",
-    "timestamp": 1746195173193
+    "timestamp": 1746255303167
 };
 function useTOC(props) {
     return [
@@ -2681,7 +2720,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chrome$2d$badge$2e
 const metadata = {
     "title": "Installation Guide",
     "filePath": "content/installation-guide.mdx",
-    "timestamp": 1746195172378
+    "timestamp": 1746255303980
 };
 function useTOC(props) {
     return [
@@ -3134,7 +3173,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$deactivate$2d$lice
 const metadata = {
     "title": "Manage License",
     "filePath": "content/license-management.mdx",
-    "timestamp": 1746195173209
+    "timestamp": 1746255303994
 };
 function useTOC(props) {
     return [
@@ -3722,7 +3761,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Troubleshooting",
     "filePath": "content/troubleshooting.mdx",
-    "timestamp": 1746195172812
+    "timestamp": 1746255304414
 };
 function useTOC(props) {
     return [
