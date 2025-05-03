@@ -54,6 +54,7 @@ export default async function RootLayout({ children }) {
       // ... Your additional head options
       >
         {/* Your additional tags should be passed as `children` of `<Head>` element */}
+        <GoogleAnalytics gaId="G-KREYYF1FXB" />
       </Head>
       <body>
       <ClarityInit /> {/* Clarity initialization runs on client */}
@@ -69,7 +70,7 @@ export default async function RootLayout({ children }) {
         >
           {children}
         </Layout>
-        <GoogleAnalytics gaId="G-KREYYF1FXB" />
+       
       </body>
     </html>
   );
