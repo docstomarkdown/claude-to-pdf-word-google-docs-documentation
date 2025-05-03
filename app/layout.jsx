@@ -3,6 +3,7 @@ import { Banner, Head } from "nextra/components";
 import { getPageMap } from "nextra/page-map";
 
 import ClarityInit from "./ClarityInit"; // import the client-only component
+import Script from "next/script";
 
 import "nextra-theme-docs/style.css";
 
@@ -45,21 +46,9 @@ export default async function RootLayout({ children }) {
       // Suggested by `next-themes` package https://github.com/pacocoursey/next-themes#with-app
       suppressHydrationWarning
     >
-      <Head
-      // ... Your additional head options
-      >
-       
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-KREYYF1FXB"></script> 
-          <script          
-            dangerouslySetInnerHTML={{
-              __html: `window.dataLayer = window.dataLayer || [];   
-                  function gtag(){dataLayer.push(arguments);}   
-                  gtag('js', new Date());   
-                  gtag('config', 'G-KREYYF1FXB');
-               `,
-            }}   
-          />
+      <Head>
         
+    
       </Head>
       <body>
         <ClarityInit /> {/* Clarity initialization runs on client */}
