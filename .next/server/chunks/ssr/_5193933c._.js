@@ -25,10 +25,6 @@ const __TURBOPACK__default__export__ = {
         title: '' // Title is optional
     },
     "license-management": "License Management",
-    '#####': {
-        type: 'separator',
-        title: '' // Title is optional
-    },
     "troubleshooting": "Troubleshooting",
     "references-and-policies": "References and Policies",
     '######': {
@@ -131,7 +127,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chatgpt$2d$canvas$
 const metadata = {
     "title": "Exporting Canvas Content",
     "filePath": "content/exporting-content/exporting-canvas-content.mdx",
-    "timestamp": 1746255305240
+    "timestamp": 1746255719445
 };
 function useTOC(props) {
     return [
@@ -568,7 +564,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chatgpt$2d$only$2d
 const metadata = {
     "title": "Exporting Entire Conversation",
     "filePath": "content/exporting-content/exporting-entire-conversation.mdx",
-    "timestamp": 1746255304433
+    "timestamp": 1746255719876
 };
 function useTOC(props) {
     return [
@@ -1031,7 +1027,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chatgpt$2d$single$
 const metadata = {
     "title": "Exporting Single Response",
     "filePath": "content/exporting-content/exporting-single-response.mdx",
-    "timestamp": 1746255304838
+    "timestamp": 1746255720286
 };
 function useTOC(props) {
     return [
@@ -1323,7 +1319,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Changelog",
     "filePath": "content/references-and-policies/change-log.mdx",
-    "timestamp": 1746255305257
+    "timestamp": 1746255720668
 };
 function useTOC(props) {
     return [
@@ -1733,7 +1729,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Privacy and Security",
     "filePath": "content/references-and-policies/privacy-and-security.mdx",
-    "timestamp": 1746255304823
+    "timestamp": 1746255720651
 };
 function useTOC(props) {
     return [
@@ -2214,7 +2210,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Introduction",
     "filePath": "content/index.mdx",
-    "timestamp": 1746255303167
+    "timestamp": 1746255719438
 };
 function useTOC(props) {
     return [
@@ -2658,7 +2654,7 @@ function _createMdxContent(props) {
                     }, this),
                     " or jump directly to ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.a, {
-                        href: "./exporting-single-response",
+                        href: "./exporting-content/exporting-single-response",
                         children: "Exporting a Single Response"
                     }, void 0, false, {
                         fileName: "[project]/content/index.mdx.tsx",
@@ -2720,7 +2716,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chrome$2d$badge$2e
 const metadata = {
     "title": "Installation Guide",
     "filePath": "content/installation-guide.mdx",
-    "timestamp": 1746255303980
+    "timestamp": 1746255719438
 };
 function useTOC(props) {
     return [
@@ -2747,7 +2743,6 @@ function _createMdxContent(props) {
         a: "a",
         h1: "h1",
         h2: "h2",
-        hr: "hr",
         img: "img",
         li: "li",
         ol: "ol",
@@ -2763,7 +2758,7 @@ function _createMdxContent(props) {
                 children: "Installation Guide"
             }, void 0, false, {
                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                lineNumber: 41,
+                lineNumber: 40,
                 columnNumber: 12
             }, this),
             "\n",
@@ -2774,7 +2769,7 @@ function _createMdxContent(props) {
                         children: "ChatGPT to Word or PDF"
                     }, void 0, false, {
                         fileName: "[project]/content/installation-guide.mdx.tsx",
-                        lineNumber: 41,
+                        lineNumber: 40,
                         columnNumber: 96
                     }, this),
                     " Chrome extension can be installed in just a few clicks. Follow the steps below to get started on ",
@@ -2782,7 +2777,7 @@ function _createMdxContent(props) {
                         children: "Google Chrome"
                     }, void 0, false, {
                         fileName: "[project]/content/installation-guide.mdx.tsx",
-                        lineNumber: 41,
+                        lineNumber: 40,
                         columnNumber: 265
                     }, this),
                     " or ",
@@ -2790,14 +2785,14 @@ function _createMdxContent(props) {
                         children: "Microsoft Edge"
                     }, void 0, false, {
                         fileName: "[project]/content/installation-guide.mdx.tsx",
-                        lineNumber: 41,
+                        lineNumber: 40,
                         columnNumber: 331
                     }, this),
                     "."
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                lineNumber: 41,
+                lineNumber: 40,
                 columnNumber: 73
             }, this),
             "\n",
@@ -2806,7 +2801,7 @@ function _createMdxContent(props) {
                 children: toc[0].value
             }, void 0, false, {
                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                lineNumber: 41,
+                lineNumber: 40,
                 columnNumber: 417
             }, this),
             "\n",
@@ -2819,17 +2814,17 @@ function _createMdxContent(props) {
                         src: __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chrome$2d$badge$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$public$2f$chrome$2d$badge$2e$png__$28$static__in__ecmascript$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object$2c$__ecmascript$29$__["default"]
                     }, void 0, false, {
                         fileName: "[project]/content/installation-guide.mdx.tsx",
-                        lineNumber: 41,
+                        lineNumber: 40,
                         columnNumber: 619
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/content/installation-guide.mdx.tsx",
-                    lineNumber: 41,
+                    lineNumber: 40,
                     columnNumber: 500
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                lineNumber: 41,
+                lineNumber: 40,
                 columnNumber: 485
             }, this),
             "\n",
@@ -2844,14 +2839,14 @@ function _createMdxContent(props) {
                                 children: "Chrome Web Store listing"
                             }, void 0, false, {
                                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                                lineNumber: 41,
+                                lineNumber: 40,
                                 columnNumber: 795
                             }, this),
                             "."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/installation-guide.mdx.tsx",
-                        lineNumber: 41,
+                        lineNumber: 40,
                         columnNumber: 766
                     }, this),
                     "\n",
@@ -2862,14 +2857,14 @@ function _createMdxContent(props) {
                                 children: "“Add to Chrome”"
                             }, void 0, false, {
                                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                                lineNumber: 41,
+                                lineNumber: 40,
                                 columnNumber: 1016
                             }, this),
                             " button."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/installation-guide.mdx.tsx",
-                        lineNumber: 41,
+                        lineNumber: 40,
                         columnNumber: 986
                     }, this),
                     "\n",
@@ -2880,14 +2875,14 @@ function _createMdxContent(props) {
                                 children: "“Add extension”"
                             }, void 0, false, {
                                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                                lineNumber: 41,
+                                lineNumber: 40,
                                 columnNumber: 1168
                             }, this),
                             " in the popup."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/installation-guide.mdx.tsx",
-                        lineNumber: 41,
+                        lineNumber: 40,
                         columnNumber: 1111
                     }, this),
                     "\n",
@@ -2895,14 +2890,14 @@ function _createMdxContent(props) {
                         children: "You should now see the extension icon in your browser toolbar."
                     }, void 0, false, {
                         fileName: "[project]/content/installation-guide.mdx.tsx",
-                        lineNumber: 41,
+                        lineNumber: 40,
                         columnNumber: 1269
                     }, this),
                     "\n"
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                lineNumber: 41,
+                lineNumber: 40,
                 columnNumber: 744
             }, this),
             "\n",
@@ -2911,7 +2906,7 @@ function _createMdxContent(props) {
                 children: toc[1].value
             }, void 0, false, {
                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                lineNumber: 41,
+                lineNumber: 40,
                 columnNumber: 1397
             }, this),
             "\n",
@@ -2919,7 +2914,7 @@ function _createMdxContent(props) {
                 children: "Even though this is a Chrome extension, Microsoft Edge supports installing extensions directly from the Chrome Web Store."
             }, void 0, false, {
                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                lineNumber: 41,
+                lineNumber: 40,
                 columnNumber: 1465
             }, this),
             "\n",
@@ -2934,14 +2929,14 @@ function _createMdxContent(props) {
                                 children: "Chrome Web Store listing"
                             }, void 0, false, {
                                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                                lineNumber: 41,
+                                lineNumber: 40,
                                 columnNumber: 1678
                             }, this),
                             " in Microsoft Edge."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/installation-guide.mdx.tsx",
-                        lineNumber: 41,
+                        lineNumber: 40,
                         columnNumber: 1649
                     }, this),
                     "\n",
@@ -2952,14 +2947,14 @@ function _createMdxContent(props) {
                                 children: "Allow"
                             }, void 0, false, {
                                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                                lineNumber: 41,
+                                lineNumber: 40,
                                 columnNumber: 1926
                             }, this),
                             " to enable installation of extensions from other stores."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/installation-guide.mdx.tsx",
-                        lineNumber: 41,
+                        lineNumber: 40,
                         columnNumber: 1887
                     }, this),
                     "\n",
@@ -2970,21 +2965,21 @@ function _createMdxContent(props) {
                                 children: "“Add to Chrome”"
                             }, void 0, false, {
                                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                                lineNumber: 41,
+                                lineNumber: 40,
                                 columnNumber: 2090
                             }, this),
                             " and confirm the installation."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/installation-guide.mdx.tsx",
-                        lineNumber: 41,
+                        lineNumber: 40,
                         columnNumber: 2059
                     }, this),
                     "\n"
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                lineNumber: 41,
+                lineNumber: 40,
                 columnNumber: 1627
             }, this),
             "\n",
@@ -2992,7 +2987,7 @@ function _createMdxContent(props) {
                 children: "Once installed, the extension works the same way in both browsers."
             }, void 0, false, {
                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                lineNumber: 41,
+                lineNumber: 40,
                 columnNumber: 2230
             }, this),
             "\n",
@@ -3001,7 +2996,7 @@ function _createMdxContent(props) {
                 children: toc[2].value
             }, void 0, false, {
                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                lineNumber: 41,
+                lineNumber: 40,
                 columnNumber: 2337
             }, this),
             "\n",
@@ -3009,7 +3004,7 @@ function _createMdxContent(props) {
                 children: "After installation:"
             }, void 0, false, {
                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                lineNumber: 41,
+                lineNumber: 40,
                 columnNumber: 2405
             }, this),
             "\n",
@@ -3020,7 +3015,7 @@ function _createMdxContent(props) {
                         children: "Open ChatGPT and refresh the page."
                     }, void 0, false, {
                         fileName: "[project]/content/installation-guide.mdx.tsx",
-                        lineNumber: 41,
+                        lineNumber: 40,
                         columnNumber: 2487
                     }, this),
                     "\n",
@@ -3031,47 +3026,22 @@ function _createMdxContent(props) {
                                 children: "“Word” and “PDF”"
                             }, void 0, false, {
                                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                                lineNumber: 41,
+                                lineNumber: 40,
                                 columnNumber: 2599
                             }, this),
                             " buttons appear below each response and at the top-right of the conversation."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/installation-guide.mdx.tsx",
-                        lineNumber: 41,
+                        lineNumber: 40,
                         columnNumber: 2564
                     }, this),
                     "\n"
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/installation-guide.mdx.tsx",
-                lineNumber: 41,
+                lineNumber: 40,
                 columnNumber: 2465
-            }, this),
-            "\n",
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.hr, {}, void 0, false, {
-                fileName: "[project]/content/installation-guide.mdx.tsx",
-                lineNumber: 41,
-                columnNumber: 2787
-            }, this),
-            "\n",
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
-                children: [
-                    "Next: Learn how to ",
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.a, {
-                        href: "./exporting-single-response",
-                        children: "Export a Single Response"
-                    }, void 0, false, {
-                        fileName: "[project]/content/installation-guide.mdx.tsx",
-                        lineNumber: 41,
-                        columnNumber: 2849
-                    }, this),
-                    "."
-                ]
-            }, void 0, true, {
-                fileName: "[project]/content/installation-guide.mdx.tsx",
-                lineNumber: 41,
-                columnNumber: 2811
             }, this)
         ]
     }, void 0, true);
@@ -3173,7 +3143,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$deactivate$2d$lice
 const metadata = {
     "title": "Manage License",
     "filePath": "content/license-management.mdx",
-    "timestamp": 1746255303994
+    "timestamp": 1746255719438
 };
 function useTOC(props) {
     return [
@@ -3761,7 +3731,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Troubleshooting",
     "filePath": "content/troubleshooting.mdx",
-    "timestamp": 1746255304414
+    "timestamp": 1746255718656
 };
 function useTOC(props) {
     return [

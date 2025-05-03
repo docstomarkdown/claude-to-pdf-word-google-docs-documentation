@@ -15,10 +15,6 @@ export default {
     title: '' // Title is optional
   },
   "license-management": "License Management",
-  '#####': {
-    type: 'separator',
-    title: '' // Title is optional
-  },
   "troubleshooting": "Troubleshooting",
   "references-and-policies": "References and Policies",
   '######': {
