@@ -1,12 +1,8 @@
-
-
 import { Footer, Layout, Navbar } from "nextra-theme-docs";
 import { Banner, Head } from "nextra/components";
 import { getPageMap } from "nextra/page-map";
-import { GoogleAnalytics } from "@next/third-parties/google";
 
-import ClarityInit from './ClarityInit' // import the client-only component
-
+import ClarityInit from "./ClarityInit"; // import the client-only component
 
 import "nextra-theme-docs/style.css";
 
@@ -40,7 +36,6 @@ const footer = (
 );
 
 export default async function RootLayout({ children }) {
-  
   return (
     <html
       // Not required, but good for SEO
@@ -54,10 +49,21 @@ export default async function RootLayout({ children }) {
       // ... Your additional head options
       >
         {/* Your additional tags should be passed as `children` of `<Head>` element */}
-        <GoogleAnalytics gaId="G-KREYYF1FXB" />
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-KREYYF1FXB"
+        ></script>
+        <script>
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-KREYYF1FXB');
+          `}
+        </script>
       </Head>
       <body>
-      <ClarityInit /> {/* Clarity initialization runs on client */}
+        <ClarityInit /> {/* Clarity initialization runs on client */}
         <Layout
           navbar={navbar}
           pageMap={await getPageMap()}
@@ -70,7 +76,6 @@ export default async function RootLayout({ children }) {
         >
           {children}
         </Layout>
-       
       </body>
     </html>
   );
