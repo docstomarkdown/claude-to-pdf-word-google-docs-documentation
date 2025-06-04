@@ -15,6 +15,7 @@ export default {
     title: '' // Title is optional
   },
   "license-management": "License Management",
+  "faq": "Frequently Asked Questions",
   "troubleshooting": "Troubleshooting",
   "references-and-policies": "References and Policies",
   '######': {
