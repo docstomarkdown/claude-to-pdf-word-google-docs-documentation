@@ -87,7 +87,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chatgpt$2d$canvas$
 const metadata = {
     "title": "Exporting Canvas Content",
     "filePath": "content/exporting-content/exporting-canvas-content.mdx",
-    "timestamp": 1749033163704
+    "timestamp": 1750753696184
 };
 function useTOC(props) {
     return [
@@ -524,7 +524,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chatgpt$2d$only$2d
 const metadata = {
     "title": "Exporting Entire Conversation",
     "filePath": "content/exporting-content/exporting-entire-conversation.mdx",
-    "timestamp": 1749033164000
+    "timestamp": 1750753696679
 };
 function useTOC(props) {
     return [
@@ -987,7 +987,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chatgpt$2d$single$
 const metadata = {
     "title": "Exporting Single Response",
     "filePath": "content/exporting-content/exporting-single-response.mdx",
-    "timestamp": 1749033161386
+    "timestamp": 1750753695166
 };
 function useTOC(props) {
     return [
@@ -1266,7 +1266,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Frequently Asked Questions (FAQ)",
     "filePath": "content/faq.mdx",
-    "timestamp": 1749033161386
+    "timestamp": 1750753695166
 };
 function useTOC(props) {
     return [
@@ -2000,7 +2000,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Introduction",
     "filePath": "content/index.mdx",
-    "timestamp": 1749033162774
+    "timestamp": 1750753695670
 };
 function useTOC(props) {
     return [
@@ -2042,8 +2042,114 @@ function _createMdxContent(props) {
                 children: "ChatGPT to Word or PDF Extension"
             }, void 0, false, {
                 fileName: "[project]/content/index.mdx.tsx",
-                lineNumber: 39,
+                lineNumber: 40,
                 columnNumber: 12
+            }, this),
+            "\n",
+            "\n",
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                style: {
+                    border: "2px solid #28a745",
+                    backgroundColor: "#d4edda",
+                    padding: "20px",
+                    borderRadius: "8px",
+                    textAlign: "center",
+                    marginTop: "30px",
+                    marginBottom: "30px",
+                    color: "#155724"
+                },
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                        style: {
+                            color: "#155724",
+                            marginBottom: "15px"
+                        },
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
+                            children: "🎉 Great News! You have the “ChatGPT to Word or PDF” Extension Installed! 🎉"
+                        }, void 0, false, {
+                            fileName: "[project]/content/index.mdx.tsx",
+                            lineNumber: 52,
+                            columnNumber: 6
+                        }, this)
+                    }, void 0, false, {
+                        fileName: "[project]/content/index.mdx.tsx",
+                        lineNumber: 49,
+                        columnNumber: 6
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                        style: {
+                            fontSize: "1.1em",
+                            lineHeight: "1.6",
+                            marginBottom: "20px"
+                        },
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
+                            children: [
+                                "To see the export buttons and start saving your chats, ",
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("mark", {
+                                    children: [
+                                        " please ",
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.strong, {
+                                            children: "refresh your\nChatGPT page"
+                                        }, void 0, false, {
+                                            fileName: "[project]/content/index.mdx.tsx",
+                                            lineNumber: 56,
+                                            columnNumber: 98
+                                        }, this),
+                                        " "
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/content/index.mdx.tsx",
+                                    lineNumber: 56,
+                                    columnNumber: 80
+                                }, this),
+                                " now."
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/content/index.mdx.tsx",
+                            lineNumber: 56,
+                            columnNumber: 6
+                        }, this)
+                    }, void 0, false, {
+                        fileName: "[project]/content/index.mdx.tsx",
+                        lineNumber: 52,
+                        columnNumber: 122
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                        src: "/chatgpt-single-response-export.png",
+                        alt: "ChatGPT Export Buttons highlighted",
+                        style: {
+                            maxWidth: "100%",
+                            height: "auto",
+                            border: "1px solid #ccc",
+                            borderRadius: "4px"
+                        }
+                    }, void 0, false, {
+                        fileName: "[project]/content/index.mdx.tsx",
+                        lineNumber: 56,
+                        columnNumber: 210
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                        style: {
+                            marginTop: "15px",
+                            fontSize: "0.9em"
+                        },
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
+                            children: "Look for the buttons marked in the red square in the image above after\nrefreshing."
+                        }, void 0, false, {
+                            fileName: "[project]/content/index.mdx.tsx",
+                            lineNumber: 64,
+                            columnNumber: 6
+                        }, this)
+                    }, void 0, false, {
+                        fileName: "[project]/content/index.mdx.tsx",
+                        lineNumber: 61,
+                        columnNumber: 8
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/content/index.mdx.tsx",
+                lineNumber: 40,
+                columnNumber: 93
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
@@ -2053,15 +2159,15 @@ function _createMdxContent(props) {
                         children: "ChatGPT to Word or PDF"
                     }, void 0, false, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 152
+                        lineNumber: 64,
+                        columnNumber: 205
                     }, this),
                     " Chrome extension."
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/index.mdx.tsx",
-                lineNumber: 39,
-                columnNumber: 87
+                lineNumber: 64,
+                columnNumber: 140
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
@@ -2071,23 +2177,23 @@ function _createMdxContent(props) {
                         children: "Word (.docx)"
                     }, void 0, false, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 377
+                        lineNumber: 64,
+                        columnNumber: 430
                     }, this),
                     " or ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.strong, {
                         children: "PDF"
                     }, void 0, false, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 442
+                        lineNumber: 64,
+                        columnNumber: 495
                     }, this),
                     " files — perfect for saving research, client notes, lesson plans, documentation drafts, and more."
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/index.mdx.tsx",
-                lineNumber: 39,
-                columnNumber: 263
+                lineNumber: 64,
+                columnNumber: 316
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.h2, {
@@ -2095,8 +2201,8 @@ function _createMdxContent(props) {
                 children: toc[0].value
             }, void 0, false, {
                 fileName: "[project]/content/index.mdx.tsx",
-                lineNumber: 39,
-                columnNumber: 613
+                lineNumber: 64,
+                columnNumber: 666
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.ul, {
@@ -2111,28 +2217,28 @@ function _createMdxContent(props) {
                                         children: "Export Individual Responses"
                                     }, void 0, false, {
                                         fileName: "[project]/content/index.mdx.tsx",
-                                        lineNumber: 39,
-                                        columnNumber: 740
+                                        lineNumber: 64,
+                                        columnNumber: 793
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.br, {}, void 0, false, {
                                         fileName: "[project]/content/index.mdx.tsx",
-                                        lineNumber: 39,
-                                        columnNumber: 812
+                                        lineNumber: 64,
+                                        columnNumber: 865
                                     }, this),
                                     "\n",
                                     "Download any single ChatGPT response as a Word or PDF file with one click."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/content/index.mdx.tsx",
-                                lineNumber: 39,
-                                columnNumber: 725
+                                lineNumber: 64,
+                                columnNumber: 778
                             }, this),
                             "\n"
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 703
+                        lineNumber: 64,
+                        columnNumber: 756
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
@@ -2144,28 +2250,28 @@ function _createMdxContent(props) {
                                         children: "Export Entire Conversations"
                                     }, void 0, false, {
                                         fileName: "[project]/content/index.mdx.tsx",
-                                        lineNumber: 39,
-                                        columnNumber: 996
+                                        lineNumber: 64,
+                                        columnNumber: 1049
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.br, {}, void 0, false, {
                                         fileName: "[project]/content/index.mdx.tsx",
-                                        lineNumber: 39,
-                                        columnNumber: 1068
+                                        lineNumber: 64,
+                                        columnNumber: 1121
                                     }, this),
                                     "\n",
                                     "Convert full chats into clean, readable documents in your preferred format."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/content/index.mdx.tsx",
-                                lineNumber: 39,
-                                columnNumber: 981
+                                lineNumber: 64,
+                                columnNumber: 1034
                             }, this),
                             "\n"
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 959
+                        lineNumber: 64,
+                        columnNumber: 1012
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
@@ -2177,28 +2283,28 @@ function _createMdxContent(props) {
                                         children: "Support for Math and Formatting"
                                     }, void 0, false, {
                                         fileName: "[project]/content/index.mdx.tsx",
-                                        lineNumber: 39,
-                                        columnNumber: 1253
+                                        lineNumber: 64,
+                                        columnNumber: 1306
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.br, {}, void 0, false, {
                                         fileName: "[project]/content/index.mdx.tsx",
-                                        lineNumber: 39,
-                                        columnNumber: 1329
+                                        lineNumber: 64,
+                                        columnNumber: 1382
                                     }, this),
                                     "\n",
                                     "Equations, tables, bullet points, and markdown-style formatting are preserved beautifully — no extra editing needed."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/content/index.mdx.tsx",
-                                lineNumber: 39,
-                                columnNumber: 1238
+                                lineNumber: 64,
+                                columnNumber: 1291
                             }, this),
                             "\n"
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 1216
+                        lineNumber: 64,
+                        columnNumber: 1269
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
@@ -2210,28 +2316,28 @@ function _createMdxContent(props) {
                                         children: "Canvas Content Support"
                                     }, void 0, false, {
                                         fileName: "[project]/content/index.mdx.tsx",
-                                        lineNumber: 39,
-                                        columnNumber: 1555
+                                        lineNumber: 64,
+                                        columnNumber: 1608
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.br, {}, void 0, false, {
                                         fileName: "[project]/content/index.mdx.tsx",
-                                        lineNumber: 39,
-                                        columnNumber: 1622
+                                        lineNumber: 64,
+                                        columnNumber: 1675
                                     }, this),
                                     "\n",
                                     "Export content from ChatGPT Canvas mode"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/content/index.mdx.tsx",
-                                lineNumber: 39,
-                                columnNumber: 1540
+                                lineNumber: 64,
+                                columnNumber: 1593
                             }, this),
                             "\n"
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 1518
+                        lineNumber: 64,
+                        columnNumber: 1571
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
@@ -2243,28 +2349,28 @@ function _createMdxContent(props) {
                                         children: "Deep Research Docs Export"
                                     }, void 0, false, {
                                         fileName: "[project]/content/index.mdx.tsx",
-                                        lineNumber: 39,
-                                        columnNumber: 1771
+                                        lineNumber: 64,
+                                        columnNumber: 1824
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.br, {}, void 0, false, {
                                         fileName: "[project]/content/index.mdx.tsx",
-                                        lineNumber: 39,
-                                        columnNumber: 1841
+                                        lineNumber: 64,
+                                        columnNumber: 1894
                                     }, this),
                                     "\n",
                                     "Works seamlessly with ChatGPT’s longer, structured research-style responses, preserving headings, sections, and citations in the exported document for sharing and archiving."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/content/index.mdx.tsx",
-                                lineNumber: 39,
-                                columnNumber: 1756
+                                lineNumber: 64,
+                                columnNumber: 1809
                             }, this),
                             "\n"
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 1734
+                        lineNumber: 64,
+                        columnNumber: 1787
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
@@ -2276,35 +2382,35 @@ function _createMdxContent(props) {
                                         children: "Free & Pro Plans"
                                     }, void 0, false, {
                                         fileName: "[project]/content/index.mdx.tsx",
-                                        lineNumber: 39,
-                                        columnNumber: 2124
+                                        lineNumber: 64,
+                                        columnNumber: 2177
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.br, {}, void 0, false, {
                                         fileName: "[project]/content/index.mdx.tsx",
-                                        lineNumber: 39,
-                                        columnNumber: 2185
+                                        lineNumber: 64,
+                                        columnNumber: 2238
                                     }, this),
                                     "\n",
                                     "Use the extension for free with usage limits, or upgrade for unlimited exports and additional features."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/content/index.mdx.tsx",
-                                lineNumber: 39,
-                                columnNumber: 2109
+                                lineNumber: 64,
+                                columnNumber: 2162
                             }, this),
                             "\n"
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 2087
+                        lineNumber: 64,
+                        columnNumber: 2140
                     }, this),
                     "\n"
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/index.mdx.tsx",
-                lineNumber: 39,
-                columnNumber: 681
+                lineNumber: 64,
+                columnNumber: 734
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.h2, {
@@ -2312,16 +2418,16 @@ function _createMdxContent(props) {
                 children: toc[1].value
             }, void 0, false, {
                 fileName: "[project]/content/index.mdx.tsx",
-                lineNumber: 39,
-                columnNumber: 2384
+                lineNumber: 64,
+                columnNumber: 2437
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
                 children: "This extension is ideal for:"
             }, void 0, false, {
                 fileName: "[project]/content/index.mdx.tsx",
-                lineNumber: 39,
-                columnNumber: 2452
+                lineNumber: 64,
+                columnNumber: 2505
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.ul, {
@@ -2331,39 +2437,39 @@ function _createMdxContent(props) {
                         children: "Students and researchers saving ChatGPT notes or summaries"
                     }, void 0, false, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 2543
+                        lineNumber: 64,
+                        columnNumber: 2596
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
                         children: "Professionals documenting AI-generated content"
                     }, void 0, false, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 2644
+                        lineNumber: 64,
+                        columnNumber: 2697
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
                         children: "Content creators and bloggers preparing drafts"
                     }, void 0, false, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 2733
+                        lineNumber: 64,
+                        columnNumber: 2786
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
                         children: "Anyone who wants to archive or share AI conversations"
                     }, void 0, false, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 2822
+                        lineNumber: 64,
+                        columnNumber: 2875
                     }, this),
                     "\n"
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/index.mdx.tsx",
-                lineNumber: 39,
-                columnNumber: 2521
+                lineNumber: 64,
+                columnNumber: 2574
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.h2, {
@@ -2371,16 +2477,16 @@ function _createMdxContent(props) {
                 children: toc[2].value
             }, void 0, false, {
                 fileName: "[project]/content/index.mdx.tsx",
-                lineNumber: 39,
-                columnNumber: 2941
+                lineNumber: 64,
+                columnNumber: 2994
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
                 children: "In this documentation, you’ll find:"
             }, void 0, false, {
                 fileName: "[project]/content/index.mdx.tsx",
-                lineNumber: 39,
-                columnNumber: 3009
+                lineNumber: 64,
+                columnNumber: 3062
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.ul, {
@@ -2390,45 +2496,45 @@ function _createMdxContent(props) {
                         children: "How to install and activate the extension"
                     }, void 0, false, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 3107
+                        lineNumber: 64,
+                        columnNumber: 3160
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
                         children: "How to export single responses, full chats, or canvas content"
                     }, void 0, false, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 3191
+                        lineNumber: 64,
+                        columnNumber: 3244
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
                         children: "How to manage your license"
                     }, void 0, false, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 3295
+                        lineNumber: 64,
+                        columnNumber: 3348
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
                         children: "Troubleshooting tips and FAQs"
                     }, void 0, false, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 3364
+                        lineNumber: 64,
+                        columnNumber: 3417
                     }, this),
                     "\n"
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/index.mdx.tsx",
-                lineNumber: 39,
-                columnNumber: 3085
+                lineNumber: 64,
+                columnNumber: 3138
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.hr, {}, void 0, false, {
                 fileName: "[project]/content/index.mdx.tsx",
-                lineNumber: 39,
-                columnNumber: 3459
+                lineNumber: 64,
+                columnNumber: 3512
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
@@ -2439,8 +2545,8 @@ function _createMdxContent(props) {
                         children: "Installation Guide"
                     }, void 0, false, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 3531
+                        lineNumber: 64,
+                        columnNumber: 3584
                     }, this),
                     " or jump directly to ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.a, {
@@ -2448,15 +2554,15 @@ function _createMdxContent(props) {
                         children: "Exporting a Single Response"
                     }, void 0, false, {
                         fileName: "[project]/content/index.mdx.tsx",
-                        lineNumber: 39,
-                        columnNumber: 3637
+                        lineNumber: 64,
+                        columnNumber: 3690
                     }, this),
                     "."
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/index.mdx.tsx",
-                lineNumber: 39,
-                columnNumber: 3483
+                lineNumber: 64,
+                columnNumber: 3536
             }, this)
         ]
     }, void 0, true);
@@ -2506,7 +2612,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chrome$2d$badge$2e
 const metadata = {
     "title": "Installation Guide",
     "filePath": "content/installation-guide.mdx",
-    "timestamp": 1749033162744
+    "timestamp": 1750753695670
 };
 function useTOC(props) {
     return [
@@ -2933,7 +3039,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$deactivate$2d$lice
 const metadata = {
     "title": "Manage License",
     "filePath": "content/license-management.mdx",
-    "timestamp": 1749033161386
+    "timestamp": 1750753696156
 };
 function useTOC(props) {
     return [
@@ -3745,7 +3851,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$share$2d$chat$2d$c
 const metadata = {
     "title": "How to Share ChatGPT Conversation",
     "filePath": "content/others/sharing-chatgpt-chat.mdx",
-    "timestamp": 1749033161386
+    "timestamp": 1750753694188
 };
 function useTOC(props) {
     return [];
@@ -4001,7 +4107,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Changelog",
     "filePath": "content/references-and-policies/change-log.mdx",
-    "timestamp": 1749033163206
+    "timestamp": 1750753696644
 };
 function useTOC(props) {
     return [
@@ -4411,7 +4517,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Privacy and Security",
     "filePath": "content/references-and-policies/privacy-and-security.mdx",
-    "timestamp": 1749033163692
+    "timestamp": 1750753697112
 };
 function useTOC(props) {
     return [
@@ -4892,7 +4998,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Troubleshooting",
     "filePath": "content/troubleshooting.mdx",
-    "timestamp": 1749033162250
+    "timestamp": 1750753695654
 };
 function useTOC(props) {
     return [
