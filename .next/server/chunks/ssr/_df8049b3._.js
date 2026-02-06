@@ -2836,10 +2836,18 @@ function _createMdxContent(props) {
                 columnNumber: 4828
             }, this),
             "\n",
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.hr, {}, void 0, false, {
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
+                children: "For security and abuse prevention reasons, license sharing across devices is supported only through Chrome Sync. Manual activation of the same license key on additional devices is not permitted, as there is no reliable way to verify whether multiple activations belong to the same user."
+            }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
                 lineNumber: 101,
                 columnNumber: 5186
+            }, this),
+            "\n",
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.hr, {}, void 0, false, {
+                fileName: "[project]/content/faq.mdx.tsx",
+                lineNumber: 101,
+                columnNumber: 5513
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.h2, {
@@ -2848,7 +2856,7 @@ function _createMdxContent(props) {
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
                 lineNumber: 101,
-                columnNumber: 5210
+                columnNumber: 5537
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.h3, {
@@ -2857,7 +2865,7 @@ function _createMdxContent(props) {
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
                 lineNumber: 101,
-                columnNumber: 5280
+                columnNumber: 5607
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.ul, {
@@ -2868,7 +2876,7 @@ function _createMdxContent(props) {
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
                         lineNumber: 101,
-                        columnNumber: 5372
+                        columnNumber: 5699
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
@@ -2876,7 +2884,7 @@ function _createMdxContent(props) {
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
                         lineNumber: 101,
-                        columnNumber: 5473
+                        columnNumber: 5800
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
@@ -2884,7 +2892,7 @@ function _createMdxContent(props) {
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
                         lineNumber: 101,
-                        columnNumber: 5540
+                        columnNumber: 5867
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
@@ -2896,21 +2904,21 @@ function _createMdxContent(props) {
                             }, void 0, false, {
                                 fileName: "[project]/content/faq.mdx.tsx",
                                 lineNumber: 101,
-                                columnNumber: 5669
+                                columnNumber: 5996
                             }, this),
                             "."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/faq.mdx.tsx",
                         lineNumber: 101,
-                        columnNumber: 5623
+                        columnNumber: 5950
                     }, this),
                     "\n"
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/faq.mdx.tsx",
                 lineNumber: 101,
-                columnNumber: 5350
+                columnNumber: 5677
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.h3, {
@@ -2919,7 +2927,7 @@ function _createMdxContent(props) {
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
                 lineNumber: 101,
-                columnNumber: 5806
+                columnNumber: 6133
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
@@ -2927,7 +2935,7 @@ function _createMdxContent(props) {
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
                 lineNumber: 101,
-                columnNumber: 5876
+                columnNumber: 6203
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.ul, {
@@ -2938,7 +2946,7 @@ function _createMdxContent(props) {
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
                         lineNumber: 101,
-                        columnNumber: 6009
+                        columnNumber: 6336
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
@@ -2946,20 +2954,20 @@ function _createMdxContent(props) {
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
                         lineNumber: 101,
-                        columnNumber: 6100
+                        columnNumber: 6427
                     }, this),
                     "\n"
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/faq.mdx.tsx",
                 lineNumber: 101,
-                columnNumber: 5987
+                columnNumber: 6314
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.hr, {}, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
                 lineNumber: 101,
-                columnNumber: 6216
+                columnNumber: 6543
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.h2, {
@@ -2968,7 +2976,7 @@ function _createMdxContent(props) {
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
                 lineNumber: 101,
-                columnNumber: 6240
+                columnNumber: 6567
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.h3, {
@@ -2977,7 +2985,7 @@ function _createMdxContent(props) {
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
                 lineNumber: 101,
-                columnNumber: 6310
+                columnNumber: 6637
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
@@ -2989,14 +2997,14 @@ function _createMdxContent(props) {
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
                         lineNumber: 101,
-                        columnNumber: 6439
+                        columnNumber: 6766
                     }, this),
                     " or reach out through the extension’s feedback form."
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/faq.mdx.tsx",
                 lineNumber: 101,
-                columnNumber: 6380
+                columnNumber: 6707
             }, this)
         ]
     }, void 0, true);
