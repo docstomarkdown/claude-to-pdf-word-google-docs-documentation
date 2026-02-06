@@ -87,7 +87,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chatgpt$2d$canvas$
 const metadata = {
     "title": "Exporting Canvas Content",
     "filePath": "content/exporting-content/exporting-canvas-content.mdx",
-    "timestamp": 1750753696184
+    "timestamp": 1770360730980
 };
 function useTOC(props) {
     return [
@@ -524,7 +524,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chatgpt$2d$only$2d
 const metadata = {
     "title": "Exporting Entire Conversation",
     "filePath": "content/exporting-content/exporting-entire-conversation.mdx",
-    "timestamp": 1750753696679
+    "timestamp": 1770360732002
 };
 function useTOC(props) {
     return [
@@ -987,7 +987,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chatgpt$2d$single$
 const metadata = {
     "title": "Exporting Single Response",
     "filePath": "content/exporting-content/exporting-single-response.mdx",
-    "timestamp": 1750753695166
+    "timestamp": 1770360731623
 };
 function useTOC(props) {
     return [
@@ -1266,7 +1266,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Frequently Asked Questions (FAQ)",
     "filePath": "content/faq.mdx",
-    "timestamp": 1750753695166
+    "timestamp": 1770360730330
 };
 function useTOC(props) {
     return [
@@ -1366,6 +1366,7 @@ const toc = useTOC({});
 function _createMdxContent(props) {
     const _components = {
         a: "a",
+        em: "em",
         h1: "h1",
         h2: "h2",
         h3: "h3",
@@ -1384,7 +1385,7 @@ function _createMdxContent(props) {
                 children: "Frequently Asked Questions (FAQ)"
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 12
             }, this),
             "\n",
@@ -1393,7 +1394,7 @@ function _createMdxContent(props) {
                 children: toc[0].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 87
             }, this),
             "\n",
@@ -1402,7 +1403,7 @@ function _createMdxContent(props) {
                 children: toc[1].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 155
             }, this),
             "\n",
@@ -1410,7 +1411,7 @@ function _createMdxContent(props) {
                 children: "This extension allows you to convert your ChatGPT conversations into downloadable Word or PDF files. It supports formatting, math equations, and even support exporting of entire conversations."
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 223
             }, this),
             "\n",
@@ -1419,7 +1420,7 @@ function _createMdxContent(props) {
                 children: toc[2].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 456
             }, this),
             "\n",
@@ -1434,14 +1435,14 @@ function _createMdxContent(props) {
                                 children: "Chrome Web Store"
                             }, void 0, false, {
                                 fileName: "[project]/content/faq.mdx.tsx",
-                                lineNumber: 100,
+                                lineNumber: 101,
                                 columnNumber: 597
                             }, this),
                             "."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
+                        lineNumber: 101,
                         columnNumber: 546
                     }, this),
                     "\n",
@@ -1449,7 +1450,7 @@ function _createMdxContent(props) {
                         children: "Open a ChatGPT conversation."
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
+                        lineNumber: 101,
                         columnNumber: 780
                     }, this),
                     "\n",
@@ -1460,7 +1461,7 @@ function _createMdxContent(props) {
                                 children: "“Word”"
                             }, void 0, false, {
                                 fileName: "[project]/content/faq.mdx.tsx",
-                                lineNumber: 100,
+                                lineNumber: 101,
                                 columnNumber: 881
                             }, this),
                             " or ",
@@ -1468,21 +1469,21 @@ function _createMdxContent(props) {
                                 children: "“PDF”"
                             }, void 0, false, {
                                 fileName: "[project]/content/faq.mdx.tsx",
-                                lineNumber: 100,
+                                lineNumber: 101,
                                 columnNumber: 940
                             }, this),
                             " button below any response or on the top bar to download the conversation in your preferred format."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
+                        lineNumber: 101,
                         columnNumber: 851
                     }, this),
                     "\n"
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 524
             }, this),
             "\n",
@@ -1491,7 +1492,7 @@ function _createMdxContent(props) {
                 children: toc[3].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 1139
             }, this),
             "\n",
@@ -1499,7 +1500,7 @@ function _createMdxContent(props) {
                 children: "Yes, you can export:"
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 1207
             }, this),
             "\n",
@@ -1513,14 +1514,14 @@ function _createMdxContent(props) {
                                 children: "single response"
                             }, void 0, false, {
                                 fileName: "[project]/content/faq.mdx.tsx",
-                                lineNumber: 100,
+                                lineNumber: 101,
                                 columnNumber: 1312
                             }, this),
                             " using the button below each response."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
+                        lineNumber: 101,
                         columnNumber: 1290
                     }, this),
                     "\n",
@@ -1531,21 +1532,21 @@ function _createMdxContent(props) {
                                 children: "entire conversation"
                             }, void 0, false, {
                                 fileName: "[project]/content/faq.mdx.tsx",
-                                lineNumber: 100,
+                                lineNumber: 101,
                                 columnNumber: 1460
                             }, this),
                             " using the button on the top right."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
+                        lineNumber: 101,
                         columnNumber: 1437
                     }, this),
                     "\n"
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 1268
             }, this),
             "\n",
@@ -1554,7 +1555,7 @@ function _createMdxContent(props) {
                 children: toc[4].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 1609
             }, this),
             "\n",
@@ -1562,13 +1563,13 @@ function _createMdxContent(props) {
                 children: "Yes! Equations and symbols are converted seamlessly, especially into Word documents—no post-editing required."
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 1677
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.hr, {}, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 1827
             }, this),
             "\n",
@@ -1577,7 +1578,7 @@ function _createMdxContent(props) {
                 children: toc[5].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 1851
             }, this),
             "\n",
@@ -1586,7 +1587,7 @@ function _createMdxContent(props) {
                 children: toc[6].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 1919
             }, this),
             "\n",
@@ -1597,7 +1598,7 @@ function _createMdxContent(props) {
                         children: "free plan"
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
+                        lineNumber: 101,
                         columnNumber: 2017
                     }, this),
                     " with limited conversions. For more frequent use, upgrade to a ",
@@ -1605,14 +1606,14 @@ function _createMdxContent(props) {
                         children: "paid plan"
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
+                        lineNumber: 101,
                         columnNumber: 2138
                     }, this),
                     "."
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 1987
             }, this),
             "\n",
@@ -1623,7 +1624,7 @@ function _createMdxContent(props) {
                         children: "Settings"
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
+                        lineNumber: 101,
                         columnNumber: 2278
                     }, this),
                     " -> ",
@@ -1631,14 +1632,14 @@ function _createMdxContent(props) {
                         children: "Manage License"
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
+                        lineNumber: 101,
                         columnNumber: 2339
                     }, this),
                     " option."
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 2219
             }, this),
             "\n",
@@ -1647,7 +1648,7 @@ function _createMdxContent(props) {
                 children: toc[7].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 2432
             }, this),
             "\n",
@@ -1659,14 +1660,14 @@ function _createMdxContent(props) {
                         children: "Lemon Squeezy"
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
+                        lineNumber: 101,
                         columnNumber: 2609
                     }, this),
                     "."
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 2500
             }, this),
             "\n",
@@ -1675,7 +1676,7 @@ function _createMdxContent(props) {
                 children: toc[8].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 2721
             }, this),
             "\n",
@@ -1687,14 +1688,14 @@ function _createMdxContent(props) {
                         children: "billing dashboard"
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
+                        lineNumber: 101,
                         columnNumber: 2932
                     }, this),
                     "."
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 2789
             }, this),
             "\n",
@@ -1702,7 +1703,7 @@ function _createMdxContent(props) {
                 children: "Once cancelled, you’ll continue to have access to unlimited conversions until the end of your current billing cycle."
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 3061
             }, this),
             "\n",
@@ -1710,7 +1711,7 @@ function _createMdxContent(props) {
                 children: "After that, your account will switch to the free plan with limited conversions per month. No further charges will be made unless you resubscribe."
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 3218
             }, this),
             "\n",
@@ -1719,7 +1720,7 @@ function _createMdxContent(props) {
                 children: toc[9].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 3404
             }, this),
             "\n",
@@ -1727,13 +1728,13 @@ function _createMdxContent(props) {
                 children: "You won’t lose any of the Word or PDF files you’ve already downloaded—those are saved to your device and fully owned by you. After cancellation, your account will automatically switch to the free plan."
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 3472
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.hr, {}, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 3714
             }, this),
             "\n",
@@ -1742,7 +1743,7 @@ function _createMdxContent(props) {
                 children: toc[10].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 3738
             }, this),
             "\n",
@@ -1751,7 +1752,7 @@ function _createMdxContent(props) {
                 children: toc[11].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 3808
             }, this),
             "\n",
@@ -1764,14 +1765,14 @@ function _createMdxContent(props) {
                                 children: "Free plan"
                             }, void 0, false, {
                                 fileName: "[project]/content/faq.mdx.tsx",
-                                lineNumber: 100,
+                                lineNumber: 101,
                                 columnNumber: 3916
                             }, this),
                             ": Limited to 10 conversions per month."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
+                        lineNumber: 101,
                         columnNumber: 3900
                     }, this),
                     "\n",
@@ -1781,21 +1782,21 @@ function _createMdxContent(props) {
                                 children: "Paid plans"
                             }, void 0, false, {
                                 fileName: "[project]/content/faq.mdx.tsx",
-                                lineNumber: 100,
+                                lineNumber: 101,
                                 columnNumber: 4051
                             }, this),
                             ": Higher limits depending on your subscription tier."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
+                        lineNumber: 101,
                         columnNumber: 4035
                     }, this),
                     "\n"
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 3878
             }, this),
             "\n",
@@ -1804,22 +1805,96 @@ function _createMdxContent(props) {
                 children: toc[12].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 4208
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
-                children: "Yes, one license works across devices as long as you’re logged into the same Chrome account."
+                children: "Yes. You can use one license across multiple devices provided that:"
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 4278
+            }, this),
+            "\n",
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.ol, {
+                children: [
+                    "\n",
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
+                        children: [
+                            "\n",
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
+                                children: "You are logged into the same Chrome account on all devices, and"
+                            }, void 0, false, {
+                                fileName: "[project]/content/faq.mdx.tsx",
+                                lineNumber: 101,
+                                columnNumber: 4430
+                            }, this),
+                            "\n"
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/content/faq.mdx.tsx",
+                        lineNumber: 101,
+                        columnNumber: 4408
+                    }, this),
+                    "\n",
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
+                        children: [
+                            "\n",
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.a, {
+                                        href: "https://support.google.com/chrome/answer/185277?hl=en&co=GENIE.Platform%3DDesktop&oco=0#",
+                                        children: "Chrome Sync"
+                                    }, void 0, false, {
+                                        fileName: "[project]/content/faq.mdx.tsx",
+                                        lineNumber: 101,
+                                        columnNumber: 4594
+                                    }, this),
+                                    " is enabled."
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/content/faq.mdx.tsx",
+                                lineNumber: 101,
+                                columnNumber: 4579
+                            }, this),
+                            "\n"
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/content/faq.mdx.tsx",
+                        lineNumber: 101,
+                        columnNumber: 4557
+                    }, this),
+                    "\n"
+                ]
+            }, void 0, true, {
+                fileName: "[project]/content/faq.mdx.tsx",
+                lineNumber: 101,
+                columnNumber: 4386
+            }, this),
+            "\n",
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
+                children: [
+                    "The license key is synchronized through Chrome Sync. If Sync is turned off, the license will remain only on the device where it was activated and will not automatically transfer to other devices. In that case, the license effectively supports ",
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.em, {
+                        children: "only one activation (one device)"
+                    }, void 0, false, {
+                        fileName: "[project]/content/faq.mdx.tsx",
+                        lineNumber: 101,
+                        columnNumber: 5090
+                    }, this),
+                    "."
+                ]
+            }, void 0, true, {
+                fileName: "[project]/content/faq.mdx.tsx",
+                lineNumber: 101,
+                columnNumber: 4828
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.hr, {}, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
-                columnNumber: 4411
+                lineNumber: 101,
+                columnNumber: 5186
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.h2, {
@@ -1827,8 +1902,8 @@ function _createMdxContent(props) {
                 children: toc[13].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
-                columnNumber: 4435
+                lineNumber: 101,
+                columnNumber: 5210
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.h3, {
@@ -1836,8 +1911,8 @@ function _createMdxContent(props) {
                 children: toc[14].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
-                columnNumber: 4505
+                lineNumber: 101,
+                columnNumber: 5280
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.ul, {
@@ -1847,24 +1922,24 @@ function _createMdxContent(props) {
                         children: "Make sure you’re on the ChatGPT website (chat.openai.com)."
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
-                        columnNumber: 4597
+                        lineNumber: 101,
+                        columnNumber: 5372
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
                         children: "Ensure you’re logged in."
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
-                        columnNumber: 4698
+                        lineNumber: 101,
+                        columnNumber: 5473
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
                         children: "Refresh the page or restart the browser."
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
-                        columnNumber: 4765
+                        lineNumber: 101,
+                        columnNumber: 5540
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
@@ -1875,22 +1950,22 @@ function _createMdxContent(props) {
                                 children: "contact support"
                             }, void 0, false, {
                                 fileName: "[project]/content/faq.mdx.tsx",
-                                lineNumber: 100,
-                                columnNumber: 4894
+                                lineNumber: 101,
+                                columnNumber: 5669
                             }, this),
                             "."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
-                        columnNumber: 4848
+                        lineNumber: 101,
+                        columnNumber: 5623
                     }, this),
                     "\n"
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
-                columnNumber: 4575
+                lineNumber: 101,
+                columnNumber: 5350
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.h3, {
@@ -1898,16 +1973,16 @@ function _createMdxContent(props) {
                 children: toc[15].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
-                columnNumber: 5031
+                lineNumber: 101,
+                columnNumber: 5806
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
                 children: "Formatting should be consistent with the chat, but if you find issues:"
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
-                columnNumber: 5101
+                lineNumber: 101,
+                columnNumber: 5876
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.ul, {
@@ -1917,29 +1992,29 @@ function _createMdxContent(props) {
                         children: "Try exporting in the other format (Word or PDF)."
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
-                        columnNumber: 5234
+                        lineNumber: 101,
+                        columnNumber: 6009
                     }, this),
                     "\n",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.li, {
                         children: "Report the bug to us with screenshots and details."
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
-                        columnNumber: 5325
+                        lineNumber: 101,
+                        columnNumber: 6100
                     }, this),
                     "\n"
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
-                columnNumber: 5212
+                lineNumber: 101,
+                columnNumber: 5987
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.hr, {}, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
-                columnNumber: 5441
+                lineNumber: 101,
+                columnNumber: 6216
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.h2, {
@@ -1947,8 +2022,8 @@ function _createMdxContent(props) {
                 children: toc[16].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
-                columnNumber: 5465
+                lineNumber: 101,
+                columnNumber: 6240
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.h3, {
@@ -1956,8 +2031,8 @@ function _createMdxContent(props) {
                 children: toc[17].value
             }, void 0, false, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
-                columnNumber: 5535
+                lineNumber: 101,
+                columnNumber: 6310
             }, this),
             "\n",
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(_components.p, {
@@ -1968,15 +2043,15 @@ function _createMdxContent(props) {
                         children: "vikram@thinksolv.com"
                     }, void 0, false, {
                         fileName: "[project]/content/faq.mdx.tsx",
-                        lineNumber: 100,
-                        columnNumber: 5664
+                        lineNumber: 101,
+                        columnNumber: 6439
                     }, this),
                     " or reach out through the extension’s feedback form."
                 ]
             }, void 0, true, {
                 fileName: "[project]/content/faq.mdx.tsx",
-                lineNumber: 100,
-                columnNumber: 5605
+                lineNumber: 101,
+                columnNumber: 6380
             }, this)
         ]
     }, void 0, true);
@@ -2000,7 +2075,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Introduction",
     "filePath": "content/index.mdx",
-    "timestamp": 1750753696644
+    "timestamp": 1770360730285
 };
 function useTOC(props) {
     return [
@@ -2611,7 +2686,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$chrome$2d$badge$2e
 const metadata = {
     "title": "Installation Guide",
     "filePath": "content/installation-guide.mdx",
-    "timestamp": 1750753695670
+    "timestamp": 1770360731594
 };
 function useTOC(props) {
     return [
@@ -3038,7 +3113,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$deactivate$2d$lice
 const metadata = {
     "title": "Manage License",
     "filePath": "content/license-management.mdx",
-    "timestamp": 1750753696156
+    "timestamp": 1770360728687
 };
 function useTOC(props) {
     return [
@@ -3850,7 +3925,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$public$2f$share$2d$chat$2d$c
 const metadata = {
     "title": "How to Share ChatGPT Conversation",
     "filePath": "content/others/sharing-chatgpt-chat.mdx",
-    "timestamp": 1750753694188
+    "timestamp": 1770360730330
 };
 function useTOC(props) {
     return [];
@@ -4106,7 +4181,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Changelog",
     "filePath": "content/references-and-policies/change-log.mdx",
-    "timestamp": 1750753696644
+    "timestamp": 1770360728687
 };
 function useTOC(props) {
     return [
@@ -4516,7 +4591,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Privacy and Security",
     "filePath": "content/references-and-policies/privacy-and-security.mdx",
-    "timestamp": 1750753697112
+    "timestamp": 1770360729759
 };
 function useTOC(props) {
     return [
@@ -4997,7 +5072,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$js__$5b
 const metadata = {
     "title": "Troubleshooting",
     "filePath": "content/troubleshooting.mdx",
-    "timestamp": 1750753695654
+    "timestamp": 1770360731001
 };
 function useTOC(props) {
     return [
