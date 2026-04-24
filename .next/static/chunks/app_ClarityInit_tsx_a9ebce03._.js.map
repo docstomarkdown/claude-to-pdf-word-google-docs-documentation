@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/vikram/GitHub/Chrome-Extensions/chatgpt-to-word-pdf/docs/app/ClarityInit.tsx"],"sourcesContent":["// app/ClarityInit.tsx\n'use client'\n\nimport { useEffect } from 'react'\nimport Clarity from '@microsoft/clarity'\n\nexport default function ClarityInit() {\n  useEffect(() => {\n    if (typeof window !== 'undefined') {\n      Clarity.init('rdnptvmjs1') // replace with your actual Clarity project ID\n    }\n  }, [])\n\n  return null\n}\n"],"names":[],"mappings":"AAAA,sBAAsB;;;;AAGtB;AACA;;AAHA;;;AAKe,SAAS;;IACtB,CAAA,GAAA,6JAAA,CAAA,YAAS,AAAD;iCAAE;YACR,wCAAmC;gBACjC,kJAAA,CAAA,UAAO,CAAC,IAAI,CAAC,cAAc,8CAA8C;;YAC3E;QACF;gCAAG,EAAE;IAEL,OAAO;AACT;GARwB;KAAA","debugId":null}}]
-}

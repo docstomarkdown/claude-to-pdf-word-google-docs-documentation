@@ -8,14 +8,16 @@ import Script from "next/script";
 import "nextra-theme-docs/style.css";
 
 export const metadata = {
-  // Define your metadata here
-  // For more information on metadata API, see: https://nextjs.org/docs/app/building-your-application/optimizing/metadata
+  title: {
+    default: "Claude to PDF, Word and Google Docs – Documentation",
+    template: "%s – Claude to PDF, Word and Google Docs – Documentation",
+  },
 };
 
 const banner = <Banner storageKey="some-key">Nextra 4.0 is released 🎉</Banner>;
 const navbar = (
   <Navbar
-    logo={<b>ChatGPT to Word or PDF - Documentation</b>}
+    logo={<b>Claude to PDF, Word and Google Docs – Documentation</b>}
 
     // ... Your additional navbar options
   />

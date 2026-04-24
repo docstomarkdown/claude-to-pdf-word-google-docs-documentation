@@ -37,7 +37,7 @@ export default {
       },
       Extension : {
         title: 'Chrome Webstore Listing',
-        href: 'https://chromewebstore.google.com/detail/chatgpt-to-word-or-pdf/mjdmggegbkookpcmbdllcnbfboikcbop'
+        href: 'https://chromewebstore.google.com/detail/eilaijjijfgeckkddafebmkllclibobc'
       },
       
     }
